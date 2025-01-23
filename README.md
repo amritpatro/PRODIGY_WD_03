@@ -57,4 +57,3 @@ The JavaScript file handles the game logic and interactivity:
 
 This project demonstrates how to create a simple and interactive Tic-Tac-Toe game using HTML, CSS, and JavaScript. The combination of these technologies results in a visually appealing and functional game that users can play directly in their web browser. The game logic handles player turns, checks for winning conditions, and allows for game resets, providing a complete and enjoyable user experience.
 
-Feel free to customize the styles and functionality to suit your specific needs and preferences!
